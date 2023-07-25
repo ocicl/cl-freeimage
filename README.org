@@ -1,0 +1,10 @@
+* cl-freeimage
+
+Lisp CFFI Bindings for FreeImage 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BradWBeer/cl-freeimage.git   |
+| commit  | 462079a  |
+| systems | cl-freeimage |
+|---------+-------------------------------------------|
+
